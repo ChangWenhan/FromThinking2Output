@@ -1,8 +1,10 @@
 # From Thinking to Output: Chain-of-Thought and Text Generation Characteristics in Reasoning Language Models
 
----
+This is the official repository for the paper: 
 
-This is the official repository for the paper: "**From Thinking to Output: Chain-of-Thought and Text Generation Characteristics in Reasoning Language Models**".
+"**From Thinking to Output: Chain-of-Thought and Text Generation Characteristics in Reasoning Language Models**".
+
+Authors：Junhao Liu, Zhenhao Xu, Yuxin Fang, Yichuan Chen and Wenhan Chang*
 
 In this repository, you'll find the core data and results from our research. We've initially provided:
 
